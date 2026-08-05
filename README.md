@@ -1,57 +1,90 @@
-# Hi there 👋 I'm Anas Alem
+<div align="center">
+
+# Anas Alem
 
 ### Software Engineer • Backend Developer • AI Engineer
 
-Passionate about building scalable backend systems, AI-powered applications, and modern web solutions. I enjoy designing clean architectures, integrating APIs, and turning ideas into reliable software.
+<p>
+  <a href="mailto:anasalem115@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/AnasAlem77">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/anas-alem77/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+</div>
 
 ---
 
-## 🚀 Tech Stack
+# 👋 About Me
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+I'm passionate about building modern software solutions, scalable backend systems, and AI-powered applications.
 
----
+Currently focusing on:
 
-## 📌 Featured Projects
-
-### 🏫 Pusdasimik Data Center
-Central Academic Data Platform built with Laravel, REST APIs, Sanctum Authentication, and Multi-System Integration.
-
-### 📚 Sistem Presensi
-Attendance Management System with QR Code, Referral Code, API Integration, and Laravel.
-
-### 🌦 Weather Dashboard
-Python-based weather dashboard with API integration and clean UI.
-
-### 🤖 Road Pothole Detection
-AI-based road pothole detection using YOLOv8 and Computer Vision.
+- 🚀 Backend Development
+- 🤖 Artificial Intelligence
+- 🌐 REST API Development
+- ☁ Cloud Computing
+- 📊 Database Design
+- 🔐 Authentication & Security
+- 🛠 Software Architecture
 
 ---
 
-## 📊 GitHub Stats
+# 💻 Tech Stack
 
-![](https://github-readme-stats.vercel.app/api?username=AnasAlem77&show_icons=true&theme=tokyonight)
+<div align="center">
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=AnasAlem77&theme=tokyonight)
+<img src="https://skillicons.dev/icons?i=python,php,laravel,java,cpp,js,html,css,bootstrap,react,nodejs,mysql,sqlite,git,github,vscode,docker,linux,postman,firebase,tensorflow,pytorch&perline=11"/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnasAlem77&layout=compact&theme=tokyonight)
+</div>
 
 ---
 
-## 📫 Contact
+# 📊 GitHub Stats
 
-📧 **Email**
+<div align="center">
 
-anasalem115@gmail.com
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AnasAlem77&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-💼 **LinkedIn**
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnasAlem77&layout=compact&theme=tokyonight&hide_border=true"/>
 
-https://www.linkedin.com/in/anas-alem77
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=AnasAlem77&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 🌦 Weather Dashboard | Responsive weather application using modern APIs |
+| 🎓 Student Grade Manager | Student management system with CRUD functionality |
+| 🔐 Password Manager | Secure password management application |
+| 🤖 AI Projects | Machine Learning & Computer Vision experiments |
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile ❤️
+
+<img src="https://komarev.com/ghpvc/?username=AnasAlem77&style=for-the-badge&color=blue"/>
+
+</div>
