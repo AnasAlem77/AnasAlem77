@@ -194,6 +194,4 @@ Centralized Academic Data Center providing secure APIs and data synchronization 
 
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=AnasAlem77&style=for-the-badge&color=blue"/>
-
 </div>
