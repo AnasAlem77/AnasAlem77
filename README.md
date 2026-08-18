@@ -45,17 +45,3 @@ Currently focusing on:
 <img src="https://skillicons.dev/icons?i=python,php,laravel,java,cpp,js,html,css,bootstrap,react,nodejs,mysql,sqlite,git,github,vscode,docker,linux,postman,firebase,tensorflow,pytorch&perline=11"/>
 
 </div>
-
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=AnasAlem77&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-
-</div>
